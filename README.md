@@ -1,2 +1,2 @@
 # FizzBuzz
-Creating FizzBuzz with JUnit 5 tests
+The FizzBuzz task with JUnit5 tests
